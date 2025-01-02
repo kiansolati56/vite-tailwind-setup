@@ -44,17 +44,18 @@ Install Python 3
 6. Open the project in your browser and start building!
 
 ## Project Structure
-
-<project-folder>/
-├── index.html
-├── postcss.config.js
-├── tailwind.config.js
-├── package.json
-├── src/
-│   ├── main.js
-│   └── tailwind.css
-├── node_modules/
-└── ...other files
+- The structure of the created project is as follows:
+    ```
+    <project-folder>/
+    ├── index.html
+    ├── postcss.config.js
+    ├── tailwind.config.js
+    ├── package.json
+    ├── src/
+    │   ├── main.js
+    │   └── tailwind.css
+    ├── node_modules/
+    └── ...other files
 
 ## About
 
@@ -63,4 +64,3 @@ Feel free to fork, modify, and use it in your projects!
 
 ## Contact
 Telegram : @MrCrowlley
-Email: kiansolati56@gmail.com

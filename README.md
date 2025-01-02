@@ -21,32 +21,25 @@ This Python script automates the setup of a Vite project with Tailwind CSS integ
 
 ## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/kiansolati56/vite-tailwind-setup.git
-   cd vite-tailwind-setup
-
-2. Ensure you have the required dependencies installed:
-
 Install Node.js
 Install Python 3
 
-3. Run the script:
+1. Run the script:
    ```bash
    python setup.py
 
-4. Enter the desired project folder name when prompted.
-5. Navigate to the created folder and run the development server:
+2. Enter the desired project folder name when prompted.
+3. Navigate to the created folder and run the development server:
    ```
-   cd <project-name>
+   cd <project-folder>
    npm run dev
 
-6. Open the project in your browser and start building!
+4. Open the project in your browser and start building!
 
 ## Project Structure
 - The structure of the created project is as follows:
     ```
-    <project-name>/
+    <project-folder>/
     ├── index.html
     ├── postcss.config.js
     ├── tailwind.config.js

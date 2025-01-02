@@ -38,7 +38,7 @@ Install Python 3
 4. Enter the desired project folder name when prompted.
 5. Navigate to the created folder and run the development server:
    ```
-   cd <project-folder>
+   cd <project-name>
    npm run dev
 
 6. Open the project in your browser and start building!
@@ -46,7 +46,7 @@ Install Python 3
 ## Project Structure
 - The structure of the created project is as follows:
     ```
-    <project-folder>/
+    <project-name>/
     ├── index.html
     ├── postcss.config.js
     ├── tailwind.config.js
